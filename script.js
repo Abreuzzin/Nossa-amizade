@@ -105,7 +105,7 @@ btnSim.addEventListener("click", () => {
         encodeURIComponent(mensagem);
 
     window.location.href =
-        `https://wa.me/${numeroWhatsApp}?text=${mensagemCodificada}`;
+        `https://wa.me/${+554991186063}?text=${mensagemCodificada}`;
 
 });
 
